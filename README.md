@@ -15,7 +15,7 @@ Third application allows to receive all request from Bolid App and react to them
 
 ## Endoint to send request
 This link allows to send a query to the team if the driver can come down to pitstop.
-http://localhost:8080/pitstop
+Method GET: http://localhost:8080/pitstop
 
 ## Graphics
 ### System Structure
