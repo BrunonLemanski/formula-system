@@ -1,7 +1,7 @@
 # Formula System
 ## System for monitoring bolid parameters
 
-The system consists of three applications designed to monitor the parameters of the formula 1 engine. To create it, Kafka was used to enable communication between other applications in the system.
+The system consists of three applications designed to monitor the parameters of the formula 1 engine. To create it, Kafka was used to enable communication between other applications in the system. The whole was created in Java 8 and Spring Framework.
 
 ## Application description 
 ### Bolid App
