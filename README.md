@@ -14,7 +14,7 @@ Second application collecting data and save it to txt file. Example file is pres
 Third application allows to receive all request from Bolid App and react to them. Depend on team manager decision can be positive or negative. Expect that, application sends message to Bolid App about exceeded engine parameters.
 
 ## Endoint to send request
-This link allows to send a query to the team if the driver can come down to pitstop.
+This link allows to send a query to the team if the driver can come down to pitstop.  
 Method GET: http://localhost:8080/pitstop
 
 ## Graphics
